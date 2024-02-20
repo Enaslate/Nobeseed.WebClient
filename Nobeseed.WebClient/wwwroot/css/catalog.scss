@@ -1,0 +1,68 @@
+$backgroundCards: #43464F;
+$backgroundTitle: #32343E;
+$greenColor: #84C25D;
+$backgroundInput: #373943;
+
+.catalog__books {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: $backgroundCards;
+    
+    margin: 10px 5px;
+    padding: 12px 33px;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
+
+.book-card {
+    width: 150px;
+    height: 200px;
+    position: relative;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.book-card__img {
+    height: 100%;
+    position: relative;
+}
+
+.book-card__img-foreground {
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    background-color: $backgroundTitle;
+    opacity: 90%;
+    top: 150px;
+}
+
+.book-card__title {
+    
+}
+
+.catalog__filter {
+    font-size: 17px;
+    width: 100%;
+    background-color: $backgroundCards;
+    grid-column-start: 5;
+    grid-column-end: 6;
+    margin: 10px 5px;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+.catalog__filter label {
+    font-weight: bold;
+}
+
+.catalog-filter__form {
+    display: flex;
+    flex-direction: column;
+}

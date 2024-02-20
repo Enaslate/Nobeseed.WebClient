@@ -1,0 +1,124 @@
+﻿@using Dropbox.Api
+@{
+    ViewData["Title"] = "Каталог";
+    string response = ViewBag.Data;
+    
+    dynamic catalog = @Newtonsoft.Json.JsonConvert.DeserializeObject(response);
+    var books = catalog.data;
+}
+<div class="catalog__books">
+@{
+    var rootPath = AppContext.BaseDirectory;
+    var appSettingsPath = System.IO.Path.Combine(rootPath, "appsettings.json");
+
+    var configuration = new ConfigurationBuilder()
+        .AddJsonFile(appSettingsPath)
+        .Build();
+    string accessToken = configuration["DropboxSettings:AccessToken"];
+
+
+    DropboxClient dropboxClient = new DropboxClient(accessToken);
+    List<Task<string>> downloadTasks = new List<Task<string>>();
+
+    foreach (var item in books)
+    {
+        string imagePath = item.image;
+        downloadTasks.Add(DownloadImageAsync(dropboxClient, imagePath));
+    }
+
+    Task.WaitAll(downloadTasks.ToArray());
+
+    for (int i = 0; i < books.Count; i++)
+    {
+        var item = books[i];
+        var imageSource = downloadTasks[i].Result;
+
+            
+        <div class="book-card">
+            <a href="/book/index?id=@books[i].id">
+                <img class="book-card__img" src="@imageSource" alt="@item.title img" />
+                <div class="book-card__img-foreground">
+                    <span class="book-card__title">@item.title</span>
+                </div>
+            </a>
+        </div>
+            
+    }
+}
+</div>
+
+<div class="catalog__filter">
+    <form asp-action="Index" method="get">
+        <div class="catalog-filter__form">
+            <label for="view">Вид</label>
+            <select name="view">
+                <option value="Tile">Плитка</option>
+                <option value="Table">Таблица</option>
+            </select>
+            <label for="date">Год выпуска</label>
+            <input type="range" name="date" min="1924" max="2024"/>
+            <label for="genres">Жанры</label>
+            <select name="genres">
+                <option value="Comedy">Комедия</option>
+                <option value="Adventure">Приключения</option>
+            </select>
+            <label for="tags">Теги</label>
+            <select name="tags">
+                <option value="gg-male">ГГ мужчина</option>
+                <option value="Magic">Магия</option>
+            </select>
+            <label for="format">Формат</label>
+            <select name="format">
+                <option value="Ранобэ">Ранобэ</option>
+                <option value="Dodjinsi">Додзинси</option>
+            </select>
+            <label for="translationStatus">Статус перевода</label>
+            <select name="translationStatus">
+                <option value="Finished">Завершён</option>
+                <option value="Translating">Выпускается</option>
+            </select>
+            <label for="titleStatus">Статус тайтла</label>
+            <select name="titleStatus">
+                <option value="Finished">Завершён</option>
+                <option value="Translating">Выпускается</option>
+            </select>
+            <label for="ageRating">Возрастной рейтинг</label>
+            <div name="ageRating" class="radios-container">
+                <div class="radio-container">
+                    <input class="filter__radio-input" type="radio" name="ageRating" value="No" />
+                    <span class="filter__radio-title">Нет</span>
+                </div>
+                <div class="radio-container">
+                    <input class="filter__radio-input" type="radio" name="ageRating" value="16+" />
+                    <span class="filter__radio-title">16+</span>
+                </div>
+                <div class="radio-container">
+                    <input class="filter__radio-input" type="radio" name="ageRating" value="18+" />
+                    <span class="filter__radio-title">18+</span>
+                </div>
+            </div>
+            <label for="rating">Оценка</label>
+            <input type="range" name="rating" min="0" max="5"/>
+            <button type="submit">Принять</button>
+        </div>
+    </form>
+</div>
+
+@{
+    async Task<string> DownloadImageAsync(DropboxClient client, string imagePath)
+    {
+        try
+        {
+            var imageStream = await client.Files.DownloadAsync(imagePath);
+            var imageData = await imageStream.GetContentAsByteArrayAsync();
+
+            var base64Image = Convert.ToBase64String(imageData);
+            var imageSource = $"data:image/jpeg;base64,{base64Image}";
+            return imageSource;
+        }
+        catch (Exception ex)
+        {
+            return string.Empty;
+        }
+    }
+}

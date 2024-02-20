@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\nobeseed.webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\nobeseed.webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\wwwroot\\css\\catalog.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\wwwroot\\css\\catalog.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\wwwroot\\lib\\images\\faq.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\wwwroot\\lib\\images\\faq.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|d:\\documents\\github\\nobeseed.webclient\\nobeseed.webclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4C919619-9825-490A-A4E8-643C5486C50D}|Nobeseed.WebClient\\Nobeseed.WebClient.csproj|solutionrelative:nobeseed.webclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Nobeseed.WebClient\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T08:29:12.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FAQ.svg",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\FAQ.svg",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\wwwroot\\lib\\images\\FAQ.svg",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\FAQ.svg",
+              "RelativeToolTip": "Nobeseed.WebClient\\wwwroot\\lib\\images\\FAQ.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-19T09:34:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Nobeseed.WebClient\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-12-22T22:18:34.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\appsettings.json",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\appsettings.json",
+              "RelativeToolTip": "Nobeseed.WebClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T06:37:04.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Controllers\\CatalogController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Nobeseed.WebClient\\Controllers\\CatalogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T04:45:09.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "Nobeseed.WebClient\\Views\\Catalog\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-11T04:45:50.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "catalog.scss",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\catalog.scss",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\wwwroot\\css\\catalog.scss",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\catalog.scss",
+              "RelativeToolTip": "Nobeseed.WebClient\\wwwroot\\css\\catalog.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-02-19T07:24:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nobeseed.WebClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-11T04:52:20.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nobeseed.WebClient.csproj",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Nobeseed.WebClient.csproj",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Nobeseed.WebClient.csproj",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Nobeseed.WebClient.csproj",
+              "RelativeToolTip": "Nobeseed.WebClient\\Nobeseed.WebClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-22T22:26:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nobeseed.WebClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-22T22:18:56.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.scss",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\site.scss",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\wwwroot\\css\\site.scss",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\site.scss",
+              "RelativeToolTip": "Nobeseed.WebClient\\wwwroot\\css\\site.scss",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAN8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2023-12-22T22:32:39.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "Nobeseed.WebClient\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-12-23T03:43:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Nobeseed.WebClient\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T23:21:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nobeseed.WebClient\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nobeseed.WebClient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T02:38:15.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

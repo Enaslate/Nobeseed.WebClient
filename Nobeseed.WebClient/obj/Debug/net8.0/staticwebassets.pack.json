@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Nobeseed.WebClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nobeseed.WebClient.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\catalog.css",
+      "PackagePath": "staticwebassets\\css\\catalog.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\catalog.min.css",
+      "PackagePath": "staticwebassets\\css\\catalog.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\catalog.scss",
+      "PackagePath": "staticwebassets\\css\\catalog.scss"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\FAQ.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\FAQ.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\bell.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\bell.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\catalog.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\catalog.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\edit.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\edit.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\other.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\other.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\profile-out.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\profile-out.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\search.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\search.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\images\\settings.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\settings.svg"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\GitHub\\Nobeseed.WebClient\\Nobeseed.WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nobeseed.WebClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nobeseed.WebClient.props",
+      "PackagePath": "build\\Nobeseed.WebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nobeseed.WebClient.props",
+      "PackagePath": "buildMultiTargeting\\Nobeseed.WebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nobeseed.WebClient.props",
+      "PackagePath": "buildTransitive\\Nobeseed.WebClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

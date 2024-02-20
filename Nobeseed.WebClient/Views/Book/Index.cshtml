@@ -1,0 +1,55 @@
+﻿@using Dropbox.Api
+
+@{
+    var response = ViewBag.Book;
+    dynamic catalog = Newtonsoft.Json.JsonConvert.DeserializeObject(response);
+    var book = catalog.data;
+    ViewData["Title"] = book;
+}
+
+@{
+    var rootPath = AppContext.BaseDirectory;
+    var appSettingsPath = System.IO.Path.Combine(rootPath, "appsettings.json");
+
+    var configuration = new ConfigurationBuilder()
+        .AddJsonFile(appSettingsPath)
+        .Build();
+    string accessToken = configuration["DropboxSettings:AccessToken"];
+
+    DropboxClient dropboxClient = new DropboxClient(accessToken);
+
+    var imageSource = await DownloadImageAsync(dropboxClient, book.image);
+
+    <section>
+        <div class="book-detail">
+            <img class="book-detail__img" src="@imageSource" alt="@book.title img" />
+            <div class="book-detail__img-foreground">
+                
+            </div>
+        <button>Читать</button>
+        </div>
+    </section>
+    <section>
+        <span class="book-detail__title">@book.title</span>
+        <p>@book.description</p>
+    </section>
+}
+
+@{
+    async Task<string> DownloadImageAsync(DropboxClient client, string imagePath)
+    {
+        try
+        {
+            var imageStream = await client.Files.DownloadAsync(imagePath);
+            var imageData = await imageStream.GetContentAsByteArrayAsync();
+
+            var base64Image = Convert.ToBase64String(imageData);
+            var imageSource = $"data:image/jpeg;base64,{base64Image}";
+            return imageSource;
+        }
+        catch (Exception ex)
+        {
+            return string.Empty;
+        }
+    }
+}

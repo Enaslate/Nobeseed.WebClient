@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/StyleSheet.css",
+    "inputFile": "wwwroot/css/StyleSheet.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/site.css",
+    "inputFile": "wwwroot/css/site.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/bookCard.css",
+    "inputFile": "wwwroot/css/bookCard.scss"
+  }
+]

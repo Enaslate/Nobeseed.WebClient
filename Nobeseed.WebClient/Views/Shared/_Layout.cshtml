@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nobeseed - @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+
+        <header class="header">
+            <div class="header-wrapper">
+                <div class="header__logo">
+                    <a class="header__logo-link" asp-controller="Home" asp-action="Index">Nobeseed</a>
+                </div>
+
+                <nav class="header__nav">
+                    <ul class="header__nav-list header__list">
+                        <li class="header__nav-list-item nav-item">
+                            <a class="header__nav-item-link" asp-controller="Catalog" asp-action="Index">
+                                <img class="header__nav-item-img" src="~/lib/images/catalog.svg" alt="Каталог" />
+                                Каталог
+                            </a>
+                        </li>
+                        <li class="header__nav-list-item nav-item">
+                            <a class="header__nav-item-link" asp-controller="Catalog" asp-action="Index">
+                                <img class="header__nav-item-img" src="~/lib/images/FAQ.svg" alt="FAQ" />
+                                FAQ
+                            </a>
+                        </li>
+                        <li class="header__nav-list-item nav-item">
+                            <button class="header__nav-item-link" id="nav-other">
+                                <img class="header__nav-item-img" src="~/lib/images/other.svg" alt="Другие" />
+                            </button>
+                        </li>
+                    </ul>
+                </nav>
+
+                <div class="search-container">
+                    <form class="header__search" method="get">
+                        <input class="header__search-input" type="text" />
+                        <div class="header__search-confirm-container">
+                            <button class="header__search-confirm">
+                                <img class="header__search-img" src="~/lib/images/search.svg" alt="Лупа" />
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="header__personal">
+                    <ul class="header__personal-list header__list">
+                        <li class="header__personal-list-item nav-item">
+                            <button class="header__personal-item-button" id="edit">
+                                <img class="header__personal-item-img" src="~/lib/images/edit.svg" alt="edit" />
+                            </button>
+                        </li>
+                        <li class="header__personal-list-item nav-item">
+                            <button class="header__personal-item-button" id="notifications">
+                                <img class="header__personal-item-img" src="~/lib/images/bell.svg" alt="notifications" />
+                            </button>
+                        </li>
+                        <li class="header__personal-list-item nav-item">
+                            <button class="header__personal-item-button" id="profile">
+                                <img class="header__personal-item-img test" src="~/lib/images/profile-out.svg" alt="profile" />
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+
+        <main class="main">
+            <div class="main-wrapper">
+                @RenderBody()
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p class="footer__p">
+                Все права защизены
+            </p>
+        </footer>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
